@@ -1,0 +1,19 @@
+en:
+  enumerations:
+    linked_agent_archival_record_relators:
+      cur: Curator
+    restriction_type:
+      Institutional policy imposed: Institutional policy imposed
+      Deed of gift imposed: Deed of gift imposed
+      InProcessSpecColl: Restricted in-process
+      ColdStorageBrbl: Other
+      # RestrictedSpecColl: 1 - Donor/university imposed access restriction
+      # RestrictedCurApprSpecColl: 2 - Repository imposed access restriction
+      # RestrictedFragileSpecColl: 3 - Restricted fragile
+    user_defined_enum_1:
+      complete: complete
+      incomplete: Incomplete
+
+  enumeration_names:
+    user_defined_enum_1: Accession Status
+    restriction_type: Local Access Restriction Type
